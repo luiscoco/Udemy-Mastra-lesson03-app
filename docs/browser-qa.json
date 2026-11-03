@@ -1,0 +1,13 @@
+{
+  "lesson": 3,
+  "checkedAt": "2026-11-03T10:48:09.565Z",
+  "browser": "isolated headless Chrome",
+  "paidProviderCalls": 0,
+  "evidence": [
+    "Actual default practical lab completed through HTTP; JSON syntax tokens and explanation-code styling match; copy controls work.",
+    "The second classroom case exposes its validation or business failure rather than reporting success.",
+    "All five pages load at desktop and mobile widths; theme persists across navigation; no document-width overflow.",
+    "Explicit live-response rendering fixture: Markdown headings, TypeScript aliases, syntax colors and unsafe-HTML removal verified."
+  ],
+  "pageErrors": []
+}
